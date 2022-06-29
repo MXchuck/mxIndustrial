@@ -1,0 +1,7 @@
+# Script to run a local copy of the server from my personal laptop, used for testing.
+#
+# Run Minecraft and keep the terminal window as an active console
+# java -Xmx8G -Xms1G -jar minecraft_server.1.16.5.jar
+#
+# Run Forge using Jave 8 SE
+/Library/Java/JavaVirtualMachines/jdk1.8.0_331.jdk/Contents/Home/jre/bin/java -Xms2G -Xmx6G -jar forge-1.16.5-36.2.35.jar
