@@ -22,8 +22,8 @@ To join our server, first [fill out this short survey](https://forms.gle/EpP6c4H
 
 ### Get Minecraft
 To run Minecraft on your computer, you will need Java version 8 or higher and a Minecraft launcher:
-- [Java SE 8 Development Kit](https://www.oracle.com/java/technologies/javase/javase8u211-later-archive-downloads.html)
-- Microsoft's [Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [PolyMC.](https://github.com/PolyMC/PolyMC)
+- [Java SE 8 Development Kit](https://www.java.com/en/download/manual.jsp)
+- Microsoft's [Minecraft Launcher](https://www.minecraft.net/en-us/about-minecraft) or the OpenSource program [PolyMC](https://github.com/PolyMC/PolyMC).
 
 We are using the **Java** version of Minecraft, **not** the Bedrock version. <br />
 As of this writing, Microsoft will let you download both versions when you set up your account.
