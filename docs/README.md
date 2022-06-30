@@ -33,11 +33,7 @@ If you already have a Mojang account, Microsoft will insist that you transfer to
 Once you run Minecraft, choose multiplayer and add the multiplayer server URL: **robotics.mxschool.edu**
 
 ## About Us
-// TODO Update our club leadership
-mxMinecraft Club is a team of enthusiastic and creative Minecrafters led by:
-- Nick DeBruin, Co-Captain, Class of 2022, \<nfdebruin@mxschool.edu\>
-- JoJo Nwosu, Co-Captain, Class of 2022, \<jcnwosu@mxschool.edu\>
-
+mxMinecraft Club is a team of enthusiastic and creative Minecrafters.
 Server and Repository created and maintained by @mxChuck <br />
 *Charles J McDonald, Academic Technology Specialist, Middlesex School \<cjmcdonald@mxschool.edu\>*
 
