@@ -1,5 +1,5 @@
-# mxMinecraft ![Server Icon](/server-icon.png)
-mxMinecraft 2023 Industrial Forge Server
+# mxIndustrial ![Server Icon](/server-icon.png)
+mxIndustrial - 2023 Industrial Forge Server
 This is a modded Minecraft Server running Forge with Feed-The-Beast extensions for server management. This is a primarily tech-themed modpack. Spawn is a slowly-evolving Minecolonies Village.
 
 ## Version 1.16.5 - The Nether Update
